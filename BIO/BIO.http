@@ -1,0 +1,6 @@
+@BIO_HostAddress = http://localhost:5148
+
+GET {{BIO_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
